@@ -119,7 +119,7 @@ bearing: 0.00
             alignment: 'right',
             title: 'Result',
             image: '',
-            description: "<p>Northwest Muger has generally low suitability for the construction site of micro dams, as shown in the suitability map.</p>",
+            description: "<p>Northwest Muger has generally low suitability for the construction site of micro dams, as shown in the suitability map.</p><p>GIS are effective tool for processing spatial and non-spatial data from the real world in order to meet particular needs. The use of GIS and AHP has been used to select suitable sites for the construction of micro dams for the collection of rainwater. The study focuses on the Muger watershed, Ethiopia. Despite receiving good rainfall annually, there is a high amount of runoff due to the hilly terrain. Despite the natural gift of good rainfall, the people in this area are limited to rain-fed crops due to the lack of irrigation facilities. In order to maximize surface water harvesting, an appropriate methodology for selecting micro dam sites has been developed. Through the use of the ARC GIS package, various thematic maps of the study area were input and analyzed. To determine the suitability of these areas, they were intersected with a variety of thematic maps.</p>",
             location: {
               center: { lon: 38.06696, lat: 9.75303 },
 zoom: 13.84,
